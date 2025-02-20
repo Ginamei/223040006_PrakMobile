@@ -1,4 +1,4 @@
-package perLatihanPertemuan1
+package LatihanPertemuan1
 
 fun main(){
     greeting("Ginaaa")
