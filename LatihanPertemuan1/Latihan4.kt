@@ -1,4 +1,4 @@
-package pertLatihanPertemuan1
+package LatihanPertemuan1
 
 fun main() {
     for (i in 1..5){
