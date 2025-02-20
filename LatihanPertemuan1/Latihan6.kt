@@ -1,4 +1,4 @@
-package pertemLatihanPertemuan1
+package LatihanPertemuan1
 
 fun main(){
     val greet = { name: String -> greetings(name) }
