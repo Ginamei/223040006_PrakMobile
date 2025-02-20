@@ -1,4 +1,4 @@
-package peLatihanPertemuan1
+package LatihanPertemuan1
 
 fun main() {
     var nama = "Kotlin"
